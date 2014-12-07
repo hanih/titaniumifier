@@ -4,3 +4,4 @@ test/packer/build
 test/runtime/build
 tmp
 !test/**/node_modules
+config.bat
